@@ -1,1 +1,2 @@
 # API Usage
+- Endpoint /auth
